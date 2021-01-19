@@ -27,7 +27,7 @@ small {
   padding: 40px;
 }
 
-.container p {
+.container > p {
   text-align: center;
 }
 
