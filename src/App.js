@@ -1,5 +1,5 @@
 import React from "react";
-import "../public/styles.css";
+//import "../public/styles.css";
 import SearchMovies from "./SearchMovies";
 
 export default function App() {
